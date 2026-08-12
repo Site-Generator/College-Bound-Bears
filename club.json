@@ -1,4 +1,24 @@
 {
   "clubName": "College Bound Bears",
-  "siteMode": "dynamic"
+  "siteMode": "dynamic",
+  "links": [
+    { "label": "Instagram", "url": "#" },
+    { "label": "Sign Up", "url": "#" },
+    { "label": "Donate", "url": "#" }
+  ],
+  "officers": [
+    { "name": "Example Officer", "role": "President" },
+    { "name": "Example Officer", "role": "Vice President" },
+    { "name": "Example Officer", "role": "Secretary" },
+    { "name": "Example Officer", "role": "Treasurer" }
+  ],
+  "events": [
+    { "title": "Example Event — Kickoff Meeting", "date": "2026-09-05", "description": "Replace this with your club's first meeting of the year — intros, goals, and how to get involved." },
+    { "title": "Example Event — College Application Workshop", "date": "2026-10-17", "description": "Replace this with a real workshop, info session, or campus visit." },
+    { "title": "Example Event — End of Semester Social", "date": "2026-12-12" }
+  ],
+  "awards": [
+    { "title": "Example Award — Community Impact Recognition", "year": 2025, "description": "Replace this with a real award or achievement your club has earned.", "featured": true },
+    { "title": "Example Award — Outstanding Chapter", "year": 2024 }
+  ]
 }
