@@ -1,24 +1,66 @@
 {
   "clubName": "College Bound Bears",
+  "advisorName": "Mr. Tse",
+  "meetingTime": "Every Other Thursday During Lunch",
   "siteMode": "dynamic",
   "links": [
-    { "label": "Instagram", "url": "#" },
-    { "label": "Sign Up", "url": "#" },
-    { "label": "Donate", "url": "#" }
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/whscollegeboundbears?stkn=cWtvd3pqY2dvMWh1#"
+    },
+    {
+      "label": "Remind",
+      "url": "whscbb"
+    }
   ],
   "officers": [
-    { "name": "Example Officer", "role": "President" },
-    { "name": "Example Officer", "role": "Vice President" },
-    { "name": "Example Officer", "role": "Secretary" },
-    { "name": "Example Officer", "role": "Treasurer" }
+    {
+      "name": "Alexandria Fuentes",
+      "role": "President"
+    },
+    {
+      "name": "Kara Orozco",
+      "role": "Co-Vice President"
+    },
+    {
+      "name": "Sofia Mesa",
+      "role": "Co-Vice President"
+    },
+    {
+      "name": "Abigail Galindo",
+      "role": "Secretary"
+    },
+    {
+      "name": "Amy Flores",
+      "role": "Treasurer"
+    },
+    {
+      "name": "Aaliyah Penaloza",
+      "role": "Publicity Manager"
+    },
+    {
+      "name": "Elizabeth Galindo",
+      "role": "Executive Development Committee"
+    },
+    {
+      "name": "Valentina Baez",
+      "role": "Executive Development Committee"
+    },
+    {
+      "name": "Jayin Ky",
+      "role": "Executive Development Committee"
+    }
   ],
   "events": [
-    { "title": "Example Event — Kickoff Meeting", "date": "2026-09-05", "description": "Replace this with your club's first meeting of the year — intros, goals, and how to get involved." },
-    { "title": "Example Event — College Application Workshop", "date": "2026-10-17", "description": "Replace this with a real workshop, info session, or campus visit." },
-    { "title": "Example Event — End of Semester Social", "date": "2026-12-12" }
-  ],
-  "awards": [
-    { "title": "Example Award — Community Impact Recognition", "year": 2025, "description": "Replace this with a real award or achievement your club has earned.", "featured": true },
-    { "title": "Example Award — Outstanding Chapter", "year": 2024 }
+    {
+      "title": "UCI College Tour",
+      "date": "2025-05-20",
+      "description": "Our UCI College Tour gave students the opportunity to explore and learn about the campus."
+    },
+    {
+      "title": "Pepperdine College Tour",
+      "date": "2025-11-10",
+      "description": "Our Pepperdine College Tour gave students the opportunity to explore and learn about the campus."
+    }
   ]
 }
